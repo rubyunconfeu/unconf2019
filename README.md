@@ -13,4 +13,4 @@ Our planning is done mainly via Github issues.
 * Github
 * G-Drive
 * freshdesks
-* Dns simple
+* DNSimple (if you need access, ping @p0wl)
