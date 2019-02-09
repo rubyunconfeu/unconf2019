@@ -12,5 +12,5 @@ Our planning is done mainly via Github issues.
 * Slack
 * Github
 * G-Drive
-* freshdesks
+* FreshDesk (if you need access, ping @p0wl)
 * DNSimple (if you need access, ping @p0wl)
